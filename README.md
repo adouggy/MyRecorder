@@ -6,3 +6,6 @@ but we may use it in application sometimes.
 This Project encapsulate this command and make it runnable under normal Android application( root is necessary, due to AID_GRAPHICS privilege).
 
 The source code is neat and simple, we run 'screenrecord' by super user shell (Java Process Runtime) and stop it by calling kill -2 (equals Ctrl+c)
+
+
+![alt tag](https://raw.githubusercontent.com/adouggy/MyRecorder/master/screenshot.jpg)
